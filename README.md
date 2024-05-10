@@ -1,2 +1,2 @@
 # grand-opera-house-CSS-recreation
-"Recreate Grand Opera House site's design using CSS in an external stylesheet, showcasing proficiency in CSS styling techniques and front-end development."
+"This repository contains a project dedicated to recreating the design and styling of the Grand Opera House website using CSS implemented in an external stylesheet. The goal is to showcase proficiency in CSS styling techniques while mimicking the visual appearance and layout of the original website. Through this project, we aim to demonstrate expertise in front-end web development and CSS best practices."
